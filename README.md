@@ -1,7 +1,11 @@
-In this project i used
--openweathermap API
+In this project I made use of:
+
+
+# openweathermap API
 site: https://openweathermap.org/
--React + Vite
+
+
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
